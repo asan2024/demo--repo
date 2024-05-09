@@ -28,4 +28,4 @@ To utilize the resources in this repository, follow these steps to run locally:
 
 
 ## LOcal development
-1.Open index.html in you browser
+1.Open index.html in you browser1
